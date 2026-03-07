@@ -35,12 +35,12 @@ A solução foi desenvolvida com base em um dataset público do Kaggle, aplicand
 
 ---
 
-#### 📈 Resultados Comparativos
+#### 📈 Resultados Obtidos
 
 | Modelo               | Recall | F1-Score | ROC-AUC |
 |----------------------|--------|----------|---------|
-| Regressão Logística  | 0.62   | 0.58     | 0.74    |
-| Random Forest        | 0.71   | 0.65     | 0.82    |
+| Regressão Logística  | 0.23   | 0.34     | 0.72    |
+| Random Forest        | 0.35   | 0.45     | 0.75    |
 
 ---
 
@@ -59,7 +59,7 @@ A solução foi desenvolvida com base em um dataset público do Kaggle, aplicand
 
 3. Abra o notebook:
    ```bash
-   jupyter notebook "ProjetoFinal (1).ipynb"
+   jupyter notebook "ProjetoFinal (3).ipynb"
    ```
 
 4. Execute célula por célula para reproduzir os resultados.
