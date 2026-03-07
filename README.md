@@ -2,6 +2,12 @@
 ### Previsão de Inadimplência de Clientes
 #### Autora: Márcia Aparecida Rodrigues de Sousa
 
+### Google Colab
+
+Clique no botão abaixo para abrir e executar o notebook diretamente no Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Marcia520/ProjetoFinal_ML/blob/main/ProjetoFinal%20(3).ipynb)
+
 ---
 
 ### 📌 Introdução
