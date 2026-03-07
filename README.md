@@ -1,23 +1,23 @@
-# 📘 Projeto Final – Machine Learning I
-## Previsão de Inadimplência de Clientes
-### Autora: Márcia Aparecida Rodrigues de Sousa
+## 📘 Projeto Final – Machine Learning I
+### Previsão de Inadimplência de Clientes
+#### Autora: Márcia Aparecida Rodrigues de Sousa
 
 ---
 
-## 📌 Introdução
+### 📌 Introdução
 Este projeto tem como objetivo prever a inadimplência de clientes de cartão de crédito utilizando técnicas de Machine Learning.  
 A solução foi desenvolvida com base em um dataset público do Kaggle, aplicando um fluxo completo de ML: desde o tratamento dos dados até a comparação de modelos e escolha do melhor.
 
 ---
 
-## 📊 Dataset
+### 📊 Dataset
 - Fonte: [Credit Card Default Dataset – Kaggle](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)  
 - Registros: ~30.000 clientes  
 - Variável alvo: **default payment_next_month** (inadimplência no próximo mês)
 
 ---
 
-## ⚙️ Fluxo do Projeto
+#### ⚙️ Fluxo do Projeto
 1. Importação e análise exploratória dos dados  
 2. Pré-processamento (estratificação, padronização)  
 3. Modelagem com dois estimadores:
@@ -29,7 +29,7 @@ A solução foi desenvolvida com base em um dataset público do Kaggle, aplicand
 
 ---
 
-## 📈 Resultados Comparativos
+#### 📈 Resultados Comparativos
 
 | Modelo               | Recall | F1-Score | ROC-AUC |
 |----------------------|--------|----------|---------|
@@ -38,7 +38,7 @@ A solução foi desenvolvida com base em um dataset público do Kaggle, aplicand
 
 ---
 
-## ▶️ Como Executar Localmente
+### ▶️ Como Executar Localmente
 
 1. Clone este repositório:
    ```bash
@@ -60,7 +60,7 @@ A solução foi desenvolvida com base em um dataset público do Kaggle, aplicand
 
 ---
 
-## 🚀 Conclusão
+### 🚀 Conclusão
 O projeto demonstrou que o **Random Forest** é o modelo mais eficaz para prever inadimplência, com melhor Recall e ROC-AUC.  
 Para produção, recomenda-se integração com pipeline de dados, monitoramento contínuo e análise de viés.
 
